@@ -9,8 +9,7 @@ void PrintArray(string[] array)
     }
 }
 
-PrintArray(array);
-Console.WriteLine(" => ");
+
 var result = new string[array.Length];  
 var temp = 0; 
 
@@ -22,6 +21,7 @@ foreach (var value in array)
         temp++; 
     }
 }
-
+PrintArray(array);
+Console.WriteLine(" => ");
 Console.Write(string.Join(Environment.NewLine, result, 0, temp));
 
