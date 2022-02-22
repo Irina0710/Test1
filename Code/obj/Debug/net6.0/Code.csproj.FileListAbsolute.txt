@@ -1,0 +1,15 @@
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\bin\Debug\net6.0\Code.exe
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\bin\Debug\net6.0\Code.deps.json
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\bin\Debug\net6.0\Code.runtimeconfig.json
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\bin\Debug\net6.0\Code.dll
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\bin\Debug\net6.0\ref\Code.dll
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\bin\Debug\net6.0\Code.pdb
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\obj\Debug\net6.0\Code.csproj.AssemblyReference.cache
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\obj\Debug\net6.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\obj\Debug\net6.0\Code.AssemblyInfoInputs.cache
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\obj\Debug\net6.0\Code.AssemblyInfo.cs
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\obj\Debug\net6.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\obj\Debug\net6.0\Code.dll
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\obj\Debug\net6.0\ref\Code.dll
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\obj\Debug\net6.0\Code.pdb
+C:\Users\Юлия\OneDrive\Рабочий стол\Test\Test1\Code\obj\Debug\net6.0\Code.genruntimeconfig.cache
